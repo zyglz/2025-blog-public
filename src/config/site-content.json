@@ -50,8 +50,8 @@
 		},
 		{
 			"id": "juejin",
-			"type": "link",
-			"value": "https://www.zyglz.com",
+			"type": "wechat",
+			"value": "/images/social-buttons/6e3849921ef37730.jpg",
 			"label": "资源管理站",
 			"order": 2
 		},
