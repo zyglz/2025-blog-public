@@ -5,7 +5,7 @@
 		"username": "Zyglz"
 	},
 	"theme": {
-		"colorBrand": "#2a48f3",
+		"colorBrand": "#DB74B9",
 		"colorPrimary": "#e6e8e8",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
@@ -15,7 +15,11 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#16007b"
+		"#005845",
+		"#26FCA0",
+		"#DA0453",
+		"#8F0BDC",
+		"#3EC8E5"
 	],
 	"artImages": [
 		{
@@ -59,6 +63,5 @@
 		}
 	],
 	"clockShowSeconds": false,
-	"summaryInContent": false,
-	"hideEditButton": false
+	"summaryInContent": false
 }
